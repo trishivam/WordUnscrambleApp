@@ -1,8 +1,9 @@
 
 package com.example.wordunscrambleapp.data
 
-val max_Number_O_fWords = 10
-val score_Increases = 20
+val maxNumberOfWords = 10
+val scoreIncreases = 20
+val guessCountMAX = 5
 val allWords =  setOf(
             "Apple",
             "Bicycle",

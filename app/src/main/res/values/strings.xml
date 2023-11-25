@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">WordUnscramble App</string>
-    <string name="wordCount">Word Count</string>
-    <string name="instructions">Unscramble word using all the letters</string>
+    <string name="instructions">Unscramble word using all the letters \n You have only %1s chance</string>
     <string name="enter_your_words">Enter Your Words</string>
     <string name="submit">Submit</string>
     <string name="skip">Skip</string>
-    <string name="score">Score:</string>
+    <string name="score">Score: %1s</string>
+    <string name="wrong_Guess">Wrong Guess</string>
+    <string name="guessWordCount">You have only 5 chance</string>
 </resources>
